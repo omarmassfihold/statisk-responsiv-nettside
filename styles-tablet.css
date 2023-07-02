@@ -1,0 +1,63 @@
+p {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+h1 span {
+    font-size: 3.5rem;
+}
+
+section > h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 40px;
+}
+
+#urban h2 {
+    margin-bottom: 20px;
+}
+
+#urban1 p {
+    font-size: 1rem;
+}
+
+.fixed-top nav {
+    padding: 15px 0px;
+}
+
+.fixed-top nav a {
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1rem;
+}
+
+nav {
+    font-size: 0.5rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.fixed-top {
+    flex-direction: column;
+}
+
+.fixed-top nav a {
+    font-size: 1rem;
+}
+
+#urban1 .h2 {
+    padding: 0 .5rem;
+}
+
+#home .h1 {
+    flex-wrap: wrap;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    padding: 80px 60px;
+}
+
